@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin-top: 150px;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: rgb(21, 244, 88);
+    font-family: 'Orbitron', sans-serif;
+    font-size: 80px;
+    letter-spacing: 10px;
+}
